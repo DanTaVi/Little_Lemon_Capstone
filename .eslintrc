@@ -1,0 +1,17 @@
+{
+    "env": {
+      "browser": true,
+      "es2021": true
+    },
+    "globals": {
+      "fetchAPI": "readonly",
+      "submitAPI": "readonly"
+    },
+    "extends": [
+      "react-app",
+      "eslint:recommended"
+    ],
+    "rules": {
+      // Add any custom rules if necessary
+    }
+  }
